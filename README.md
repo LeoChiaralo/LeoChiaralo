@@ -5,10 +5,10 @@
 - Em busca da primeira oportunidade profissional na área
 
 </br>
-<div>
+<div align="center">
   <a href="https://github.com/LeoChiaralo">
-  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=LeoChiaralo&show_icons=true&theme=tokyonight" />
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoChiaralo&show_icons=true&theme=tokyonight" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeoChiaralo&show_icons=true&theme=tokyonight" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoChiaralo&show_icons=true&theme=tokyonight" />
 </div>
 </br>
     
