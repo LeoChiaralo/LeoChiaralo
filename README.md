@@ -1,12 +1,14 @@
 ### Olá, eu sou o Leonardo Chiaralo
 
-- 📚Estudante de Desenvolvimento Web
+- 📚Desenvolvimento Web
+- Portfólio: https://leochiaralo.github.io/Portfolio/
+- Em busca da primeira oportunidade profissional na área
 
 </br>
 <div align="center">
   <a href="https://github.com/LeoChiaralo">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=LeoChiaralo&show_icons=true&theme=tokyonight" />
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoChiaralo&show_icons=true&theme=tokyonight" />
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=LeoChiaralo&show_icons=true&theme=tokyonight" />
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoChiaralo&show_icons=true&theme=tokyonight" />
 </div>
 </br>
     
