@@ -1,7 +1,7 @@
 ### Olá, eu sou o Leonardo Chiaralo
 
 - 📚Desenvolvimento Web
-- Portfólio: https://leochiaralo.github.io/Portfolio/
+- Portfólio: https://leochiaralo.github.io/portfolio/
 - Em busca da primeira oportunidade profissional na área
 
 </br>
